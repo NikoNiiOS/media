@@ -1,0 +1,21 @@
+[
+    {
+      "model": "borrowing.borrowing",
+      "pk": 1,
+      "fields": {
+        "media": 1,
+        "emprunteur": 1,
+        "date": "2024-11-01"
+      }
+    },
+    {
+      "model": "borrowing.borrowing",
+      "pk": 2,
+      "fields": {
+        "media": 2,
+        "emprunteur": 2,
+        "date": "2024-11-05"
+      }
+    }
+  ]
+  

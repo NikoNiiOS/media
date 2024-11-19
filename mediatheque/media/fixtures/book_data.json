@@ -1,0 +1,23 @@
+[
+    {
+      "model": "media.book",
+      "pk": 1,
+      "fields": {
+        "name": "Le Petit Prince",
+        "date_emprunt": "2024-11-01",
+        "disponible": true,
+        "auteur": "Antoine de Saint-Exupéry"
+      }
+    },
+    {
+      "model": "media.book",
+      "pk": 2,
+      "fields": {
+        "name": "1984",
+        "date_emprunt": "2024-11-05",
+        "disponible": false,
+        "auteur": "George Orwell"
+      }
+    }
+  ]
+  

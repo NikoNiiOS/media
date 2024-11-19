@@ -1,0 +1,23 @@
+[
+    {
+      "model": "media.dvd",
+      "pk": 1,
+      "fields": {
+        "name": "Inception",
+        "date_emprunt": "2024-10-15",
+        "disponible": true,
+        "realisateur": "Christopher Nolan"
+      }
+    },
+    {
+      "model": "media.dvd",
+      "pk": 2,
+      "fields": {
+        "name": "The Matrix",
+        "date_emprunt": null,
+        "disponible": false,
+        "realisateur": "Lana Wachowski, Lilly Wachowski"
+      }
+    }
+  ]
+  

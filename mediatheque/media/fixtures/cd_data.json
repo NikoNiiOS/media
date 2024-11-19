@@ -1,0 +1,23 @@
+[
+    {
+      "model": "media.cd",
+      "pk": 1,
+      "fields": {
+        "name": "Abbey Road",
+        "date_emprunt": "2024-10-01",
+        "disponible": true,
+        "artiste": "The Beatles"
+      }
+    },
+    {
+      "model": "media.cd",
+      "pk": 2,
+      "fields": {
+        "name": "Random Access Memories",
+        "date_emprunt": null,
+        "disponible": false,
+        "artiste": "Daft Punk"
+      }
+    }
+  ]
+  

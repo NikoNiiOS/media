@@ -1,0 +1,19 @@
+[
+    {
+      "model": "media.jeudeplateau",
+      "pk": 1,
+      "fields": {
+        "name": "Catan",
+        "createur": "Klaus Teuber"
+      }
+    },
+    {
+      "model": "media.jeudeplateau",
+      "pk": 2,
+      "fields": {
+        "name": "Carcassonne",
+        "createur": "Klaus-Jürgen Wrede"
+      }
+    }
+  ]
+  

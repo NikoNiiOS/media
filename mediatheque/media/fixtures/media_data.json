@@ -1,0 +1,21 @@
+[
+    {
+      "model": "media.media",
+      "pk": 1,
+      "fields": {
+        "name": "Media 1",
+        "date_emprunt": "2024-11-01",
+        "disponible": true
+      }
+    },
+    {
+      "model": "media.media",
+      "pk": 2,
+      "fields": {
+        "name": "Media 2",
+        "date_emprunt": null,
+        "disponible": false
+      }
+    }
+  ]
+  
