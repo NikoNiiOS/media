@@ -1,3 +1,8 @@
 from django.test import TestCase
+from users.models import User
 
-# Create your tests here.
+class UserTest(TestCase):
+    fixtures = ["user_sata.json"]
+    
+    def setUp(self):
+        return super().setUp()
